@@ -1,14 +1,14 @@
-![Findroid banner](images/findroid-banner.png)
+![Finly banner](images/finly-banner.png)
 
-# Findroid
-![GitHub release (with filter)](https://img.shields.io/github/v/release/jarnedemeulemeester/findroid?style=for-the-badge)
-![GitHub repo stars](https://img.shields.io/github/stars/jarnedemeulemeester/findroid?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/jarnedemeulemeester/findroid?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/jarnedemeulemeester/findroid?style=for-the-badge)
-![GitHub all releases](https://img.shields.io/github/downloads/jarnedemeulemeester/findroid/total?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/jarnedemeulemeester/findroid?style=for-the-badge)
+# Finly
+![GitHub release (with filter)](https://img.shields.io/github/v/release/xjazc03/finly?style=for-the-badge)
+![GitHub repo stars](https://img.shields.io/github/stars/xjazc03/finly?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/xjazc03/finly?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/xjazc03/finly?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/xjazc03/finly/total?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/xjazc03/finly?style=for-the-badge)
 
-Findroid is third-party Android application for Jellyfin that provides a native user interface to browse and play movies and series.
+Finly is third-party Android application for Jellyfin that provides a native user interface to browse and play movies and series.
 
 I am developing this application in my spare time.
 
